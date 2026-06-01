@@ -76,8 +76,8 @@ O mapeamento das Entradas (I), Saídas (Q), Memórias Internas (M), Temporizador
 1.  **Segurança e Intertravamento:** O sistema só opera se o painel geral for iniciado (`I0`) e a memória `M0` estiver ativa. O botão `I1` corta imediatamente toda a operação.
 2.  **Controle Automático (Histerese):** Quando em modo automático (`M1`), a bomba liga ao detectar que o nível está abaixo de `I4` (Sensor Baixo desativado) e permanece selada/ligada até atingir o Sensor Alto (`I6`).
 3.  **Proteções Temporizadas:**
-    - Se a bomba (`Q0`) ligar e em até **8 segundos** (`T0`) a água não atingir os níveis mínimos esperados, o sistema assume funcionamento a seco e interrompe a bomba.
-    - Se a bomba ficar ativa por mais de **90 segundos** (`T1`) direto, o sistema acusa falha de tempo limite (possível vazamento ou sensor travado).
+- Se a bomba (`Q0`) ligar e em até **8 segundos** (`T0`) a água não atingir os níveis mínimos esperados, o sistema assume funcionamento a seco e interrompe a bomba.
+- Se a bomba ficar ativa por mais de **90 segundos** (`T1`) direto, o sistema acusa falha de tempo limite (possível vazamento ou sensor travado).
 4.  **Tratamento de Anomalias (Reset e Drenagem):** Ao atingir o nível máximo crítico (`I7`), o alarme (`M4`) trava e a válvula de drenagem (`Q4`) abre. O operador precisa pressionar `RESET` (`I8`), disparando uma rotina (`M5`) que mantém a drenagem aberta até que o nível caia com segurança abaixo do sensor baixo (`I4`).
 
 ---
