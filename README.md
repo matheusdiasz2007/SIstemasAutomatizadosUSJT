@@ -18,8 +18,8 @@ O sistema conta com modos de operação automático e manual, controle por histe
 ## 📌 Sumário
 - [Simulador Online](#-simulador-online)
 - [Mapeamento de Variáveis](#-mapeamento-de-variáveis)
-- [Arquitetura e Funcionamento](#-arquitetura-e-funcionamento)
-- [Diagrama Ladder Completo](#-diagrama-ladder-completo)
+- [Arquitetura e Funcionamento](#-Arquitetura-e-funcionamento)
+- [Diagrama do Tanque](#-Diagrama-do-tanque)
 
 ---
 
