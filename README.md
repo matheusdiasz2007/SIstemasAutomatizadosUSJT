@@ -92,18 +92,18 @@ O mapeamento das Entradas (I), Saídas (Q), Memórias Internas (M), Temporizador
 
 ## 👨‍💻 Autores
 
-🧑‍💻 Anderson Rugo Santos
+🧑‍💻 Anderson Rugo Santos - GitHub: https://github.com/anderson-r-s
 
-🧑‍💻 Jhonatan Guedes Nantes
+🧑‍💻 Jhonatan Guedes Nantes - GitHub:
 
-🧑‍💻 Lucas Gonçalves Nascimento
+🧑‍💻 Lucas Gonçalves Nascimento - GitHub: https://github.com/lucasgnascimento-hub
 
-🧑‍💻 Matheus Dias Pereira
+🧑‍💻 Matheus Dias Pereira - GitHub: https://github.com/matheusdiasz2007
 
-🧑‍💻 Marcus V. Araujo Tavares
+🧑‍💻 Marcus V. Araujo Tavares - GitHub: https://github.com/Marcus-Tavares
 
-👩‍💻 Sara Hakim dos Santos
+👩‍💻 Sara Hakim dos Santos - GitHub: https://github.com/hakim-sara
 
-👩‍💻 Sarah Mazoni Camargo
+👩‍💻 Sarah Mazoni Camargo - GItHub: https://github.com/sarahmazoni1102
 
 ---
