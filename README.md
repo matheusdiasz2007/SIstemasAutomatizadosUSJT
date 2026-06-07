@@ -4,7 +4,7 @@
 
 ![UNIVERSIDADE](https://img.shields.io/badge/UNIVERSIDADE-USJT-blue)
 ![PROJETO](https://img.shields.io/badge/PROJETO-A3-purple)
-![STATUS](https://img.shields.io/badge/STATUS-DESENVOLVIMENTO-orange)
+![STATUS](https://img.shields.io/badge/STATUS-Concluído-green)
 
 
 </div>
@@ -88,3 +88,22 @@ O mapeamento das Entradas (I), Saídas (Q), Memórias Internas (M), Temporizador
 
 <img width="1323" height="655" alt="image" src="https://github.com/user-attachments/assets/f3ee9cdc-6b0d-4d73-9136-6849eb1cd4b1" />
 
+---
+
+## 👨‍💻 Autores
+
+🧑‍💻 Anderson Rugo Santos
+
+🧑‍💻 Jhonatan Guedes Nantes
+
+🧑‍💻 Lucas Gonçalves Nascimento
+
+🧑‍💻 Matheus Dias Pereira
+
+🧑‍💻 Marcus V. Araujo Tavares
+
+👩‍💻 Sara Hakim dos Santos
+
+👩‍💻 Sarah Mazoni Camargo
+
+---
