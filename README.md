@@ -84,7 +84,7 @@ O mapeamento das Entradas (I), Saídas (Q), Memórias Internas (M), Temporizador
 
 ## 📋 Diagrama do Tanque
 
-<img width="1331" height="719" alt="image" src="https://github.com/user-attachments/assets/9c61af31-e7ce-46d7-ab3a-f8b9f300ea12" />
+<img width="1871" height="738" alt="image" src="https://github.com/user-attachments/assets/d8c82fb4-62b9-4104-8fd3-48aa7f7c54b8" />
 
 <img width="1323" height="655" alt="image" src="https://github.com/user-attachments/assets/f3ee9cdc-6b0d-4d73-9136-6849eb1cd4b1" />
 
