@@ -19,7 +19,7 @@ O sistema conta com modos de operação automático e manual, controle por histe
 
 A lógica deste projeto está totalmente montada e pronta para ser testada interativamente de forma online. 
 
-👉 **[Clique aqui para acessar o Projeto no PLCFiddle.](https://www.plcfiddle.com:/fiddles/fbb0fe72-acf7-4353-befb-047c72928375)**
+👉 **[Clique aqui para acessar o Projeto no PLCFiddle.](https://www.plcfiddle.com:/fiddles/a86091b2-6d96-4077-a774-39b4aaa13de0)**
 
 ### Como interagir na plataforma:
 1. Abra o link acima.
