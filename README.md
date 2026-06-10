@@ -94,7 +94,7 @@ O mapeamento das Entradas (I), Saídas (Q), Memórias Internas (M), Temporizador
 
 🎓 Anderson Rugo Santos - GitHub: https://github.com/anderson-r-s
 
-🎓 Jhonatan Guedes Nantes - GitHub:
+🎓 Jhonathan Guedes Nantes - GitHub: https://github.com/JhowNantes
 
 🎓 Lucas Gonçalves Nascimento - GitHub: https://github.com/lucasgnascimento-hub
 
